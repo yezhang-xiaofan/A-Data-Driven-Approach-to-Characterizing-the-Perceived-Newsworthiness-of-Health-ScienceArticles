@@ -1,0 +1,39 @@
+coefficient: -2.075008
+
+ti-and weight women intake study body ti-in smoking objective background design dietary mh-adult higher high lower diet total mh-humans results status associated obesity mh-studies increased mass bmi men compared mh-female 
+
+coefficient: -2.309769
+
+care health participants older physical medical results mh-aged measures hospital setting outcomes adults quality design life ti-of years main ti-the factors activity pain associated importance ti-and mh-of 001 sleep mh-humans 
+
+coefficient: -2.597122
+
+children age years study mh-child results infants mean early injury mh-infant cognitive conclusions ti-in time scores child birth measures range mh-female design young objective 18 adolescents participants methods mh-preschool growth 
+
+coefficient: -2.604761
+
+use care health women mh-numerical mh-data screening mh-health rates states likely national medical mh-united guidelines united information pregnancy costs breast ti-the practice program current cancer physicians methods delivery services mh-states 
+
+coefficient: -2.868567
+
+risk 95% ci associated diabetes mortality ratio disease mh-aged mh-studies mh-factors mh-risk type factors association increased study death hr stroke cohort incidence 001 cardiovascular years heart adjusted higher hazard lower coronary 
+
+coefficient: -3.188789
+
+group treatment patients trial mh-use intervention therapy vs weeks primary control placebo events randomized 12 groups months compared adverse difference mean 95% ci participants received baseline did efficacy safety ti-a mg 
+
+coefficient: -3.331019
+
+studies data evidence clinical trials risk included outcomes review ti-a results using study ti-of identified research methods criteria interventions ti-and 2012 quality mh-humans effect 95% ci conclusions rr reported used published 
+
+coefficient: -3.842589
+
+levels cells ti-in cell expression role human ti-of response genetic increased protein ti-and mice development tissue gene samples factor responses activity receptor disease ti-the reduced mh-animals potential lung effects function 
+
+coefficient: -3.86913
+
+patients cancer survival mh-aged overall months median rates methods rate diagnosis years primary clinical pediatric tumor analysis outcome disease mh-humans ti-cancer cohort patient prostate mh-middle treated follow-up mh-male treatment results 
+
+coefficient: -4.036917
+
+patients results surgery study conclusions imaging complications brain performed ti-of underwent diagnostic patient surgical using significantly mh-humans symptoms test significant mh-male cases mh-adult tests mh-female postoperative mh-studies compared time ti-the 

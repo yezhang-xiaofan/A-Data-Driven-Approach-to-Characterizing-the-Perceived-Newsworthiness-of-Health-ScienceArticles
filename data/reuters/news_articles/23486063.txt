@@ -1,0 +1,45 @@
+* New coronavirus has infected 15 worldwide, killing 9* From same family as viruses that cause common colds, SARS* Dutch team finds receptor that virus uses to infect cellsBy LONDON, March 13 (Reuters) - Scientists have worked out how
+a deadly new virus which was unknown in humans until last year
+is able to infect human cells and cause severe, potentially
+fatal damage to the lungs.In one of the first detailed studies of the virus - which
+emerged in the Middle East and has so far infected 15 people
+worldwide, killing nine of them - Dutch researchers identified a
+cell surface protein it uses to enter and infect human cells.The finding, published in the journal Nature, came as the
+World Health Organisation (WHO) confirmed the 15th case of the
+virus, known as novel coronavirus or NCoV, in a male patient in
+Saudi Arabia who died on March 2.Other cases have been in Jordan and Qatar, and in patients
+in Germany and Britain linked to travel in the Middle East.NCoV is from the same family of viruses as those that cause
+common colds and the one that caused the deadly outbreak of
+Severe Acute Respiratory Syndrome (SARS) that first emerged in
+Asia in 2003.The WHO first issued an international alert about it in
+September after it was identified in a Qatari man in Britain who
+had recently been in Saudi Arabia.A study published last month found that NCoV was well
+adapted to infecting human cells and may be treatable with
+medicines similar to the ones used for SARS, which killed a
+tenth of the 8,000 people it infected.In this latest study, led by Bart Haagmans at the Erasmus
+Medical Centre in The Netherlands, researchers set out to find
+how the virus got into cells - which receptors it used - and
+then to find out where in the body those receptors were common.POTENTIAL VACCINES"Once you can identify the receptor and you know the
+distribution of the receptor in the body, then you can get more
+information on the pathogenesis (the way it infects people) of
+the virus and the possibility for transmission," Haagmans said
+in a telephone interview.Researchers identified the key receptor for the disease as a
+cell surface protein called dipeptidyl peptidase 4 (DPP4).They also found cells containing DPP4 receptors were common
+in the lower respiratory tract but not in the upper respiratory
+tract - giving clues to why the virus causes illness in the
+lungs rather than in the nose and throat as a cold virus would.The findings should help researchers find ways of developing
+potential drugs or vaccines to block the DPP4 receptors and
+prevent infection, Haagmans said.A few drugs that block DPP4 receptors are already on the
+market, licensed for use in diabetes, but Haagmans said his team
+already tried using those to stop the virus in laboratory tests
+and found they did not work.He said, however, that the team was working with other
+molecules that might block the receptors and could form the
+basis for developing a potential vaccine.Initial analysis by scientists at Britain's Health
+Protection Agency last year found that NCoV's closest relatives
+were most probably bat viruses.Yet further work by a research team in Germany suggests NCoV
+may have come through an intermediary - possibly goats.Haagmans said since DPP4 receptors were also present in
+other species, including bats, his findings showed it was
+feasible the virus came from bats. He said the idea that goats
+may have been an intermediary also looked feasible.
+
+ (Reporting by Kate Kelland; Editing by Pravin Char)

@@ -1,0 +1,5 @@
+21323542|clinical|C1611832^C1555900^C1608518^C3272565^C0205210|start=0|end=8|CONC
+21323542|practice|C0237607^C3245512|start=9|end=17|PHYS^CONC
+21323542|streptococcal pharyngitis|C0036689|start=19|end=44|DISO
+21323542|bacterial|C0521009|start=51|end=60|CONC
+21323542|therapeutic use|C0039795|start=69|end=84|CONC

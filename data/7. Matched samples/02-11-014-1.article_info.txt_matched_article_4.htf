@@ -1,0 +1,4 @@
+21323543|hypoxia|C0242184|start=0|end=7|DISO
+21323543|inflammation|C0021368|start=12|end=24|DISO
+21323543|adaptive immunity|C0678209|start=26|end=43|PHYS
+21323543|physiology|C0031842^C0031843|start=44|end=54|OCCU^PHYS

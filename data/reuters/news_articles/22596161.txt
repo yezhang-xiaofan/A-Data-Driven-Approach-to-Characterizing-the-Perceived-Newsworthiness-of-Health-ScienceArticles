@@ -1,0 +1,50 @@
+* Latest advance in brain-computer interface technology* May one day be used to restore mobility to paralyzedBy CHICAGO, May 16 (Reuters) - Using just her thoughts, a
+58-year-old paralyzed woman instructed a robotic arm to grasp a
+cup of coffee and guide it to her mouth where she sipped from a
+straw, the first drink she has been able to serve herself in 15
+years.The woman is one of two patients in the ongoing trial of
+BrainGate neural interface, an experimental brain-computer
+interface technology that may one day give paralyzed individuals
+more mobility."This is another big jump forward to control the movements
+of a robotic arm in three-dimensional space," said John
+Donoghue, who leads the development of BrainGate technology and
+is the director of the Institute for Brain Science at Brown
+University in Rhode Island."We're getting closer to restoring some level of everyday
+function to people with limb paralysis," said Donoghue, whose
+study was published on Wednesday in the journal Nature.To manage the feat, researchers used a tiny sensor about the
+size of a baby aspirin that is loaded with 96 electrodes
+designed to pick up nerve activity.Scientists implant that into a part of the brain called the
+motor cortex that is involved in voluntary movement.When a paralyzed patient implanted with the device thinks
+about moving an object, the electrodes pick up those nerve
+signals and send them to a nearby computer, which then
+translates them into commands to operate assistive devices, such
+as the robotic arms used in the study.So far, the experimental device has been used to allow
+patients to operate a computer cursor and control simple robotic
+devices.The latest study involved two patients, both paralyzed by
+strokes that left them unable to communicate or move.MUCH MORE TESTING NEEDEDIn the trial, the woman and a 66-year-old man learned to do
+complex tasks with a robotic arm by imagining themselves moving
+their own arms and legs. The robotic arm was attached to a
+computer rather than their bodies.They tested the system using two robotic arms, one developed
+by the German Aerospace Center's Institute of Robotics and
+Mechatronics and the other by DEKA Research and Development
+Corp, through funding from the United States Defense Advanced
+Research Projects Agency or DARPA."Our goal in this research is to develop technology that
+will restore independence and mobility for people with paralysis
+or limb loss," said Dr. Leigh Hochberg, a neuroengineer who
+holds appointments at the Department of Veterans Affairs, Brown
+University and Harvard University.Hochberg said there was much more work to do before that
+could happen. The researchers need to test the technology in
+many more patients.Currently, the sensor is connected to the computer through
+computer cables leading from the user's skull, but ultimately
+the team envisions a wireless system that would be fully
+automated and remain stable for decades. The system also needs
+to be refined for speed and control.Even so, the findings are encouraging, Dr. Roderic
+Pettigrew, director of the National Institute of Biomedical
+Imaging and Bioengineering at the National Institutes of Health,
+which supports the research, said in a statement."The researchers have begun the long, difficult process of
+testing and refining the system with feedback from patients, and
+they've found that it is possible for a person to mentally
+control a robotic limb in three-dimensional space. This
+represents a remarkable advance," he said.	
+	
+ (Reporting By Julie Steenhuysen; Editing by )

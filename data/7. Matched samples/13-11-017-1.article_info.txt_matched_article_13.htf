@@ -1,0 +1,6 @@
+21858421|autologous|C0439859|start=0|end=10|CONC
+21858421|pluripotent stem cells|C0872076|start=11|end=33|ANAT
+21858421|generated|C3146294|start=34|end=43|ACTI
+21858421|testicular biopsy|C0403215|start=61|end=78|PROC
+21858421|aging|C0001811|start=80|end=85|PHYS
+21858421|pathology|C0030664^C0205469^C0677042^C0919386|start=87|end=96|DISO^OCCU^PROC^CONC

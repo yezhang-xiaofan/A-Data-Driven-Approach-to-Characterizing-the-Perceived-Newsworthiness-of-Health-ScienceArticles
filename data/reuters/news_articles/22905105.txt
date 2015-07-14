@@ -1,0 +1,83 @@
+* TB vaccine seen attacking disease-caused autoimmunity* Long-term type 1 diabetes patients produce insulin again* Effect lasts for a week, further trials to boost dosingBy NEW YORK, Aug 8 (Reuters) - A controversial experimental
+cure for type 1 diabetes, using a tuberculosis vaccine invented
+a century ago, appears to temporarily vanquish the disease,
+according to a study in a handful of patients led by a scientist
+long criticized by her peers.There is no guarantee the results from this early-stage
+trial, published on Wednesday in the journal PLoS One, will
+stand up in larger studies, which are now under way. Other
+diabetes researchers criticized it for going beyond the evidence
+in its claims about what caused the observed effects.If the findings do hold up, however, they would mean that
+the generic bacillus Calmette-Guerin (BCG) vaccine, in use since
+1921, can regenerate insulin-secreting cells in the pancreas,
+whose loss causes the disease."We think we're seeing early evidence of effectiveness,"
+said immunology researcher Denise Faustman of Massachusetts
+General Hospital, who led the trial. "This simple, inexpensive
+vaccine attacks the autoimmunity underlying type 1 diabetes."That autoimmunity, in which the immune system turns on the
+body's own cells rather than invaders, destroys
+insulin-producing "islet" cells in the pancreas. As a result,
+patients have to regularly inject themselves with insulin to
+control their blood sugar, or glucose.Also known as juvenile diabetes, the disease affects as many
+as 3 million Americans, estimates JDRF (formerly the Juvenile
+Diabetes Research Foundation). Another 30,000 people in the
+United States, half of them adults, are diagnosed every year
+with the disease, which has long been considered incurable."We found that even low doses of the vaccine could
+transiently reverse type 1 diabetes, and this was in patients
+who have had the disease for 15 years," said Faustman. The
+effect lasted for about one week. "Our measurements showed that
+autoimmune T cells that destroy the islet cells died, and we saw
+evidence that insulin production was restored."Other diabetes experts have their doubts. "There is a bit of
+magical thinking here," said Dr. Domenico Accili of the Naomi
+Berrie Diabetes Center at Columbia University Medical Center.
+The idea that BCG wipes out autoimmune cells "is totally
+unproved."REGENERATING ISLET CELLSThe study is nevertheless within the mainstream of current
+efforts to cure diabetes, said cellular immunologist Raphael
+Clynes of the Berrie Center, who was not involved in the
+research."Folks had presumed that by the time patients had overt
+diabetes, all their islet cells had been destroyed," Clynes
+said. "We now know there are preserved islet cells many years
+out. The presumption is, if you can get rid of the inflammatory,
+autoimmune response, the islet cells could regenerate."Faustman's research on lab mice, begun in the 1990s,
+suggested that one way to get them to do that was with a
+compound in the body called tumor necrosis factor. TNF is
+difficult to obtain commercially, but the BCG vaccine increases
+the body's production of it.Raising levels of TNF through the vaccine cured type 1
+diabetes in mice, Faustman reported a decade ago: With the
+autoimmune T cells out of the picture, islet cells regenerated
+and began producing healthy amounts of insulin. The journal that
+published the study insisted Faustman not use the word
+"regeneration," so controversial was the idea that islets could
+come back to life. She substituted "restoration."By 2006, other scientists - including some who had attacked
+Faustman's claims of regeneration - had replicated key findings
+of her mouse studies, laying the foundation for the clinical
+trial.Three patients with longstanding diabetes received two
+injections, four weeks apart, of BCG. Three others received
+saline injections, serving as the placebo control.In two of the three BCG patients, levels of islet-attacking
+T cells fell, the scientists reported on Wednesday. Dead
+autoimmune cells were released into the bloodstream, a hint that
+TNF was killing them as intended. A measure of insulin
+production rose. The only placebo patient with similar results
+had become infected with the Epstein-Barr virus, which also
+triggers production of TNF.No patients had adverse side effects.The scientists also reported marked increases in a marker of
+the body's own insulin production. (They did not measure insulin
+itself because insulin made by the pancreas cannot be
+distinguished from the injected form.) "It wasn't to the level
+where they could throw away their syringe, but it was a
+significant elevation," said Faustman. "And this was in patients
+15 years out: Their islet cells weren't dead, as most people
+said."The restored insulin production lasted only a week. In the
+trial for which Faustman is recruiting the first of hundreds of
+patients she therefore plans to give more frequent BCG shots.Faustman has already faced significant challenges to her
+theory. JDRF rejected her funding requests and circulated a 2003
+letter from two of her colleagues at Harvard Medical School,
+casting doubt on her work and apologizing to diabetics for
+"having their expectations cruelly raised" by stories about her
+research.Reaction to this study was not much better. "The paper shows
+that BCG is associated with a transient improvement in a couple
+of patients, but it's hard to conclude that TNF is the causative
+factor," said Columbia's Clynes."It's certainly interesting and worth further
+investigation," said JDRF Chief Executive Jeffrey Brewer. "But
+it's really important to be careful about how we interpret early
+results." Curing type 1 diabetes may finally be within reach, he
+said, "but it will be a marathon, not a sprint."
+
+ (Editing by  and Prudence Crowther)

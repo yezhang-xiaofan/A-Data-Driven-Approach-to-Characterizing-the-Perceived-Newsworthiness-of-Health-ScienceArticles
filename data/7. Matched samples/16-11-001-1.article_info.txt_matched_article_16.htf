@@ -1,0 +1,15 @@
+20978192|expression profiling|C1513400|start=0|end=20|PROC
+20978192|progressive|C0205329|start=24|end=35|CONC
+20978192|stages|C1306673|start=36|end=42|CONC
+20978192|deficiency|C0011155^C0162429^C1623416|start=65|end=75|DISO^CONC
+20978192|contribution|C1880177|start=81|end=93|ACTI
+20978192|metabolic|C1524026^C0311400^C2707259|start=97|end=106|PHYS^CONC
+20978192|changes|C0392747^C0443172|start=107|end=114|CONC
+20978192|tumorigenesis|C0007621^C0596263|start=118|end=131|DISO
+20978192|hereditary leiomyomatosis and renal cell carcinoma|C1708350|start=133|end=183|DISO
+20978192|hlrcc|C1708350^C2987031|start=185|end=190|DISO^GENE
+20978192|caused by|C0015127^C1314792|start=195|end=204|CONC
+20978192|mutations|C0026882|start=205|end=214|PHYS
+20978192|the krebs cycle|C0008858|start=218|end=233|PHYS
+20978192|fumarate hydratase|C1366530|start=241|end=259|GENE
+20978192|proposed|C1553874^C1578820|start=278|end=286|CONC

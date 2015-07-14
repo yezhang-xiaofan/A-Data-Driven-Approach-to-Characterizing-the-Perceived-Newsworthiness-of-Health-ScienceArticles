@@ -1,0 +1,12 @@
+22052934|secondary prevention|C0679699|start=9|end=29|PROC
+22052934|risk reduction|C1137094|start=34|end=48|ACTI
+22052934|therapy|C0039798^C0087111|start=49|end=56|PROC^CONC
+22052934|coronary|C0018787^C1522318|start=75|end=83|ANAT^CONC
+22052934|atherosclerotic vascular disease|C0004153|start=94|end=126|DISO
+22052934|update|C1519814^C1548449^C1548567^C3244319^C1549773|start=133|end=139|CONC
+22052934|guideline|C0162791^C0282423|start=143|end=152|CONC
+22052934|american heart association|C0002458|start=162|end=188|ORGA
+22052934|college|C0557806|start=202|end=209|OBJC
+22052934|cardiology|C0007189^C1555719|start=213|end=223|OCCU^CONC
+22052934|foundation|C0016617|start=224|end=234|ORGA
+22052934|american heart association|C0002458|start=236|end=262|ORGA

@@ -1,0 +1,36 @@
+* Researchers discover ways to turn gene back on* Discovery could prevent cancer spreading* Clinical trials to start in 2-3 yearsBy Tan Ee LynHONG KONG, July 23 (Reuters) - Breast cancer cells can
+destroy a powerful immune response in the body and allow the
+disease to spread to the patient's bones, researchers in
+Australia reported on Monday.They also experimented with two ways to reinstate this
+immune response to help patients fight breast cancer, but it
+will take more tests and several more years for these therapies
+to become routine treatments, they said."We have identified a way that breast cancer cells can turn
+off the immune system, allowing them to spread to distant parts
+such as the bone," said Belinda Parker, a research fellow at the
+Peter MacCallum Cancer Centre in Melbourne, who led the study."By understanding how this occurs, we hope to use existing
+and new therapies to restore this immune function and prevent
+the spread of cancer," she said by telephone.The study was published on Monday in the peer-reviewed
+journal Nature Medicine.In 2010, 1.5 million people were diagnosed with breast
+cancer, the top cancer in women around the world.Although it kills many women in developing countries, 89
+percent of women diagnosed with breast cancer in western
+countries are still alive five years after diagnosis thanks to
+detection tests and treatment.Using tissue samples from breast cancer patients and
+experiments with mice, Parker and colleagues found that a gene
+called IRF7 is switched off in patients whose cancer spreads to
+other parts of the body.IRF7 controls the production of interferon, an important
+type of immune protein that fights viruses and bacteria apart
+from tumour cells"Usually when breast cancer cells leave the breast and
+travel in the bloodstream and into bone marrow, the release of
+interferons by IRF7 will cause the immune system to recognise
+those cells and eliminate them," Parker said."But by losing IRF7, it prevents the stimulation of immune
+responses and allows those cells to hide from being recognised
+(and later spread)."Parker and her team tried two ways to revive this immune
+response in mice experiments and both appeared to work."We put the gene back into cancer cells so it can't switch
+it (IRF7) off. We allowed the immune pathway to be stimulated
+and the cancer cells did not spread to the bone," Parker said."The other way is to treat the animals with interferon,
+which is available for treating other diseases, like hepatitis.
+That also prevented the spread of cancer to the bone."Parker said they will study how best to use these two
+methods on patients in the next few years and plan to have a
+clinical trial in two to three years.
+
+ (Reporting by Tan Ee Lyn, editing by Elaine Lies)

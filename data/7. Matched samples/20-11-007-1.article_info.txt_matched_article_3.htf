@@ -1,0 +1,5 @@
+21709280|maternal|C1858460|start=0|end=8|PHYS
+21709280|environment|C0014406|start=9|end=20|CONC
+21709280|cycle|C1511572|start=47|end=52|CONC
+21709280|obesity|C0028754|start=56|end=63|DISO
+21709280|diabetes|C0011847^C0011849|start=68|end=76|DISO

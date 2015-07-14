@@ -1,0 +1,42 @@
+* First genomic map of mutations that lead to tumours* Findings help explain mutations found in 30 cancer types* "Profound implications" for cancer treatment, preventionBy LONDON, Aug 14 (Reuters) - Researchers in Britain have set
+out the first comprehensive map of mutational processes behind
+the development of tumours - work that should in future lead to
+better ways to treat and prevent a wide range of cancers.In a study published in the journal Nature on Wednesday,
+researchers who analysed more than 7,000 genomes, or genetic
+codes, of common forms of cancer uncovered 21 so-called
+"signatures" of processes that mutate DNA."(This) is an important step to discovering the processes
+that drive cancer formation," said Serena Nik-Zainal of the
+Wellcome Trust Sanger Institute who worked on the research."Through detailed analysis, we can start to use the
+overwhelming amounts of information buried deep in the DNA of
+cancers to our advantage in terms of understanding how and why
+cancers arise."All cancers are caused by mutations in DNA occurring in
+cells of the body during someone's lifetime.Scientists are clear about some things, such as that
+chemicals in tobacco smoke cause mutations in lung cells that
+lead to lung cancers, or that ultraviolet light triggers
+mutations in skin cells that lead to skin cancers.But they have yet to figure out the biological processes
+that cause mutations behind most common cancers."We're beginning to know quite a lot about what the
+consequences of those mutations are. But actually we have a
+really rudimentary understanding of what is causing the
+mutations in the first place," said Mike Stratton, the Sanger
+Institute's director and the lead researcher on this study."And after all, the things that are causing those mutations
+are the causes of cancer."The team analysed the genetic codes of 7,042 cases of cancer
+in people from around the world, covering 30 different types of
+the disease, to see if they could find patterns, or signatures,
+of mutational processes.They discovered that all the cancers contained two or more
+signatures - a finding that shows the variety of processes that
+work together when a cancer develops.They also found that different cancers have different
+numbers of mutational processes. While two mutational processes
+underlie the development of ovarian cancer, there are six behind
+the development of liver cancer, the researchers saidAnd some signatures are found in multiple cancer types,
+while others are only found in one type. Out of the 30 cancers,
+25 had signatures from mutational processes linked to ageing.In a suggestion of what might be behind many common cancers,
+the team also discovered that a family of enzymes called
+APOBECs, known to mutate DNA, was linked to more than half of
+the cancer types studied.APOBECs can be activated when the body is responding to a
+viral infection. The researchers said it may be that the
+resulting "signatures" are collateral damage on the human genome
+caused by the enzymes acting to protect cells from viruses.Stratton described the results as like uncovering the
+"archaeological traces" of the many mutational processes that
+lead to most cancers."This compendium of mutational signatures and the consequent
+insights into the mutational processes underlying them has
+profound implications for the understanding of cancer."(Editing by )

@@ -1,0 +1,31 @@
+ National Cancer Institute scientists
+have released the largest-ever database of cancer-related
+genetic variations, providing researchers the most comprehensive
+way so far to figure out how to target treatments for the
+disease.Open access worldwide to the new database, based on genome
+studies, is expected to help researchers accelerate development
+of new drugs and better match patients with therapies, NCI said
+in a statement on Monday."Most anti-cancer drugs that are used today are used based
+on their empirical activity," Dr. Yves Pommier, chief of the
+NCI's Laboratory of Molecular Pharmacology, said in an
+interview. "For most of them, we know there is a target, but
+they have not been connected with any genomics."Most cancer treatments involve a lot of guess work because
+doctors have no way to determine how a particular patient is
+likely to respond to many commonly used drugs or chemotherapy,
+or which cancers will develop resistance.To create the database, the NCI team sequenced 60 human
+cancer cell lines, generating an extensive list of
+cancer-specific variations for different parts of the body.The results were published in Cancer Research, a journal of
+the American Association for Cancer Research.Researchers could mine the data, for instance, to determine
+whether the chemotherapy drug Cisplatin is associated with
+specific genetic mutations, Pommier said."Only about half of women with ovarian cancer respond to
+it," he said, noting that pharmaceutical companies would have
+little incentive to determine if an existing cancer drug should
+only be used in a subset of patients.Many recently approved cancer drugs are targeted treatments,
+designed to block specific pathways that cancer cells use to
+grow and reproduce. Before the drugs are administered, patients
+are tested for the specific genetic mutations that would make
+the drug more likely to be beneficial to them.Melanoma drug Zelboraf, sold by Roche Holding AG,
+is designed to work by targeting a specific genetic mutation
+found in about half of all melanomas. Pfizer Inc's 
+cancer drug Xalkori, which targets a mutation in the ALK gene,
+works in about 4 percent of lung cancer patients.

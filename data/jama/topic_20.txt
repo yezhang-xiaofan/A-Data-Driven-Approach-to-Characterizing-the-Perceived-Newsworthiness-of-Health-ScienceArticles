@@ -1,0 +1,79 @@
+coefficient: -1.223341
+
+cancer 95% ci risk years screening primary results associated ezetimibe prostate areas use survival disorders men age study incidence adt mental mh-factors outcomes conclusions older used main ti-of importance increased design 
+
+coefficient: -1.401998
+
+group patients 95% ci placebo trial vs randomized mean months treatment difference outcomes -0 groups ti-trial identifier registration compared participants 001 change ti-randomized therapy clinicaltrials gov mh-aged score mh-use interventions mh-outcome 
+
+coefficient: -1.641053
+
+health participants care information outcomes importance use vs mean mh-health children scores 95% ci results design secondary quality main uses -0 data significant difference mh-humans setting intervention measures outcome objective conclusions 
+
+coefficient: -1.988102
+
+participants children ptsd measures symptoms disorder depression study years design group results age behavior setting scale treatment main score mean mh-adult mh-humans conclusions objective mh-female outcome disorders mh-male severity baseline 
+
+coefficient: -2.180913
+
+patients outcomes complications mortality mh-aged cohort surgical risk mh-studies hospital age underwent postoperative rates surgery outcome mh-retrospective time results retrospective main setting odds mh-humans design measures conclusions mh-male study hospitals 
+
+coefficient: -2.191185
+
+patients survival mortality associated 95% ci risk factors mh-aged pci study results used good outcome data hr underwent disease skin ratio participants outcomes hazard low all-cause using setting main included objective 
+
+coefficient: -2.402838
+
+95% ci use risk patients older vs years days headache kidney 80 acute associated treatment group children outcomes statin cbt clinical injury points importance study education follow-up findings clarithromycin taking conclusions 
+
+coefficient: -2.673094
+
+devices interventions emp adherence 95% ci outcomes studies events common patients medication improved data study rates decrease adverse associated medical care conclusions including children evidence findings period importance sud use effect 
+
+coefficient: -2.697836
+
+patients disease treatment participants outcomes years levels mh-aged imaging cognitive diabetes associated control measures main burden healthy importance controls results clinical surgery adjusted matter conclusions older 95% ci study objective mh-studies 
+
+coefficient: -2.722666
+
+patients 95% ci study melanoma 001 outcomes vs fracture main measures results design cell setting new years participants conclusions mh-aged death days relevance outcome objective nursing mh-studies importance total mh-humans hr 
+
+coefficient: -2.857669
+
+care patients patient hospital pain discharge outcomes visits faculty older primary medical home minority department emergency practices virtual quality measures management lower 30 days ward design usual ti-of 95% ci attendance 
+
+coefficient: -2.9434
+
+studies patients care bacteremia surgery review risk aureus echocardiography antibiotic outcomes evidence veterans clinical identified data findings quality associated mrsa study cancer using diagnosis vs endocarditis management ventilation transesophageal included 
+
+coefficient: -2.984866
+
+intervention interventions clinical injury treatment control participants outcomes trials risk trajectories disability patients group fall trial groups results recovery effective randomized ti-a importance support mh-humans measures care ti-of placebo main 
+
+coefficient: -3.072047
+
+patients diagnostic cases days 95% ci outcomes glucose accuracy physicians results mh-aged controls importance 30 relevance mh-humans conclusions acs median objective confidence diagnosis difficult design main measures case disorders clinical management 
+
+coefficient: -3.105093
+
+genetic functional brain disease connectivity results patients study participants clinical measures mh-humans associated gene ti-in association schizophrenia design expression conclusions pd mutations ti-of risk main genes imaging setting importance ti-and 
+
+coefficient: -3.11035
+
+95% ci mm patients events pain sbp hg participants 12 outcomes risk acupuncture laser 120 -0 weeks -1 results follow-up clinical use control injury function associated years respectively 50 included needle 
+
+coefficient: -3.122609
+
+95% ci handover group major years mechanical patients issues ratio mortality using medical important morning clinically valve survival bioprosthetic stroke hazard replacement patient 50 aged aortic 15-year 69 compared participants outcomes 
+
+coefficient: -3.149985
+
+gastric patients hcv treatment studies bypass genotype index diabetes loss rates evidence weight outcomes therapy band cohorts bariatric svr type long-term clinical included greater used mg/dl remission surgery hypertension follow-up 
+
+coefficient: -3.206469
+
+clinical dosing 95% ci genotype-guided trials randomized patients weeks outcomes inr months risk greater vs warfarin treatment buprenorphine 31 percentage dose results data range ti-clinical symptomatic major time events oat bleeding 
+
+coefficient: -3.479477
+
+patients weight obesity treatment loss evidence guidelines smoking management clinicians health review overweight bmi physical activity 2013 engagement adults intervention medical counseling patient systematic recommendations lifestyle urinary risk provide engaged 

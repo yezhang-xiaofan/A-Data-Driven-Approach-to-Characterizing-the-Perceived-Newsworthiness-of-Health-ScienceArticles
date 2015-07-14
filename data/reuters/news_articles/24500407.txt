@@ -1,0 +1,57 @@
+* Danish man gets sense of touch with artificial hand* Prototype still several years from widespread use* Researchers refining device, plan longer-term trialsBy LONDON, Feb 5 (Reuters) - Dennis Aabo Sorensen lost his left
+hand when a firework rocket he was holding exploded during New
+Year's Eve celebrations 10 years ago, and he never expected to
+feel anything with the stump again.But for a while last year he regained his sense of touch
+after being attached to a "feeling" bionic hand that allowed him
+to grasp and identify objects even when blindfolded.The prototype device, which was wired to nerves in the
+36-year-old Dane's left arm, blurs the boundary between body and
+machine and scientists hope it could one day revolutionise the
+lives of many amputees.There is still work to be done in miniaturising components
+and tidying away trailing cables that mean the robotic hand has
+so far only been used in the lab, but Sorensen said the European
+research team behind the project had got the basics right."It was a great experience. It's amazing to feel something
+you haven't been able to feel for so many years," he told
+Reuters in a telephone interview. "It was pretty close to having
+the same feeling as in my normal hand."Details of his month-long use of the bionic hand, including
+results from a week of concentrated daily tests, were reported
+by researchers from Italy, Switzerland, Germany, Britain and
+Denmark in the journal Science Translational Medicine on
+Wednesday.Alastair Ritchie, a bioengineering expert at the University
+of Nottingham, who was not involved in the research, said the
+device was a logical next step but more clinical trials were now
+needed to confirm the system's viability."It's very exciting preliminary data but it's a one-case
+study and we now need to see more cases," he said.Despite notable advances with prosthetic limbs, current
+artificial hands fall down when it comes to providing sensory
+feedback - a key element in human dexterity.In his every day life Sorensen uses a commercial prosthetic
+hand that can detect muscle movement in his stump to open and
+close his hand, but provides no sense of touch and requires him
+to watch constantly to prevent objects being crushed.The new so-called LifeHand 2 prosthesis is far more
+sophisticated in combining intra-nerve wiring, robotics and
+computer science to create life-like feeling.IMPLANTED ELECTRODESUltra-thin electrodes the width of a human hair were
+surgically implanted into the ulnar and median nerves of
+Sorensen's arm before he was attached to the robotic hand, which
+is equipped with various artificial sensors.These sensors measure the tension in man-made tendons on
+each finger to assess the force used to grasp different objects,
+while computer algorithms transform this information into an
+electrical signal that the nerves can interpret.The result is real-time sensation, including a gradation in
+feelings that allowed Sorensen in tests to detect both shape and
+consistency. In a series of experiments, he was able to
+recognise the basic shapes of objects, such as the cylinder of a
+bottle, and also feel differences in the stiffness between a
+mandarin orange and a baseball.It is a big advance on an initial LifeHand 1 device unveiled
+in 2009, which was less refined and was not implanted on the
+patient but only connected through electrodes.There is still a need for further work, however, in order
+for the new hand to differentiate between more detailed
+textures, as well as between hot and cold.Silvestro Micera, an engineer at the Ecole Polytechnique
+Federale de Lausanne and the Cuola Superiore Sant'Anna in Pisa,
+said the challenge now was to ensure the system could remain
+implanted on multiple patients for "many months"."Our final goal is to have this in clinical practice in
+five, six or seven years time - but the next step is to show in
+two to three years that this can work long term not just in one
+patient but in several patients," he said.Assuming further clinical trials go well, the research team
+is likely eventually to bring in a commercial partner, although
+Micera said this was not on the cards just yet.One big unknown is cost. The high-tech device will not be
+cheap but Micera said the surgery to implant the electrodes was
+relatively straightforward, which should limit hospital bills.
+
+ (Editing by )

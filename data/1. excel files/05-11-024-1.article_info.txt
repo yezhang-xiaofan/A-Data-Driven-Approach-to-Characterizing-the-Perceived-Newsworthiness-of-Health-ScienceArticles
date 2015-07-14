@@ -1,0 +1,8 @@
+22168652,Rivaroxaban versus warfarin in nonvalvular atrial fibrillation.,"Anticoagulants/*therapeutic use
+Atrial Fibrillation/*drug therapy
+Female
+Humans
+Male
+Morpholines/*therapeutic use
+Thiophenes/*therapeutic use
+Warfarin/*therapeutic use",Rosenstein R and Parra D,Missing,Missing,The New England journal of medicine,365

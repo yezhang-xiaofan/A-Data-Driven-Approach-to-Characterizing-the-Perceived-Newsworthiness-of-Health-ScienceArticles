@@ -1,0 +1,32 @@
+* Astronomical algorithms used to study tumour samples* Automated system taps software for exploring night skyBy LONDON, Feb 20 (Reuters) - In an unlikely tie-up,
+astronomers and cancer researchers have joined forces to study
+breast tumours using image analysis software originally
+developed to explore the distant stars.The automated system offers a speedy way to test if tumours
+are aggressive and may mean pathologists one day no longer have
+to peer down a microscope to spot subtle differences in tissue
+samples.Scientists at the University of Cambridge said on Wednesday
+that astronomical algorithms, or problem-solving procedures,
+adapted to biology had proved much faster and just as accurate
+as traditional tumour analysis procedures.Astronomers have long used sophisticated computer systems to
+help pick out indistinct objects in the night sky, and the
+software used by the Cambridge team first developed to help spot
+planets that might harbour life outside our solar system.But such star-gazing skills have gone largely unnoticed in
+biomedical field, at least until now."In shows that we don't cross-communicate as much as we
+ought to," said lead researcher Raza Ali, a pathologist from
+Cancer Research UK's Cambridge Institute.Ali and colleagues studied just over 2,000 tumour samples
+and found the astronomical algorithm system could process them
+in a day, compared to the week they would have taken to analyse
+manually.They now plan a larger international study involving samples
+from more than 20,000 breast cancer patients to refine the
+approach.Studying tumour samples is a key part of breast cancer
+treatment since differences can show whether or not a tumour
+expresses a certain protein. A "positive" result means a patient
+may be suitable for a targeted drug like Roche's 
+Herceptin.Some diagnostics companies are already looking at other ways
+to automate the analysis of tumour samples but Ali said this was
+the first example of exploiting know-how adapted from astronomy.The team of Cambridge cancer researchers and astronomers,
+who published their findings in the British Journal of Cancer,
+have placed all their algorithms and images in the public domain
+in the hope of encouraging further collaboration.   
+
+ (Editing by Louise Heavens)

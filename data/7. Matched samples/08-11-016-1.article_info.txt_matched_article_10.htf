@@ -1,0 +1,11 @@
+21529751|mutations|C0026882|start=6|end=15|PHYS
+21529751|nde1|C1425014|start=19|end=23|GENE
+21529751|cause|C0015127^C1524003|start=24|end=29|CONC
+21529751|extreme|C0205403|start=30|end=37|CONC
+21529751|microcephaly|C0025958|start=38|end=50|DISO
+21529751|lissencephaly|C0266463|start=56|end=69|DISO
+21529751|corrected|C0205202|start=71|end=80|CONC
+21529751|genes|C0017337|start=83|end=88|GENE
+21529751|disrupted|C0332454|start=89|end=98|CONC
+21529751|microcephaly|C0025958|start=108|end=120|DISO
+21529751|meaning|C0876919|start=122|end=129|CONC

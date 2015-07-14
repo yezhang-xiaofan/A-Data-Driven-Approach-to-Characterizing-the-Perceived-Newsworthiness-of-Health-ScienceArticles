@@ -1,0 +1,8 @@
+ 22056152|combined|C0205195|start=1|end=9|CONC
+ 22056152|androgen deprivation therapy|C0279492|start=10|end=38|PROC
+ 22056152|radiation therapy|C0034619^C1522449^C1578499|start=43|end=60|PROC^CONC
+ 22056152|locally|C1517927|start=65|end=72|CONC
+ 22056152|advanced|C0205179|start=73|end=81|CONC
+ 22056152|prostate cancer|C0376358^C0600139^C2984325^C3541264|start=82|end=97|DISO^CONC
+ 22056152|mason|C0331857|start=125|end=130|ORGA
+ 22056152|ding|C1419419|start=137|end=141|GENE

@@ -1,0 +1,44 @@
+ Scientists have created an
+"intelligent" surgical knife that can detect in seconds whether
+tissue being cut is cancerous, promising more effective and
+accurate surgery in future.The device, built by researchers at London's Imperial
+College, could allow doctors to cut back on additional
+operations to remove further pieces of cancerous tumours.The technology, effectively merging an electrosurgical knife
+that cuts through tissue using heat with a mass spectrometer for
+chemical analysis, has also been shown to be able to distinguish
+beef from horsemeat.Surgeons often find it impossible to tell by sight where
+tumours end and healthy tissue begins, so some cancer cells are
+often left behind. A fifth of breast cancer patients who have
+lumpectomy surgery need a second operation.The new "iKnife" is designed to get round the problem by
+instantly sampling the smoke given off as tissue is cut through
+using an electric current to see if it is cancerous.In the first study to test the device in patients, the
+iKnife diagnosed tissue samples from 91 patients with 100
+percent accuracy, researchers at Imperial College London
+reported in Science Translational Medicine on Wednesday.Currently, removed tissue can be sent for laboratory
+analysis while the patient remains under general anaesthetic -
+but each test takes around half an hour, while the iKnife
+provides feedback in less than three seconds.It does this by analysing biological information given off
+from burning tissue and comparing the findings to a database of
+biological fingerprints from tumours and healthy tissue."It's a really exciting innovation and a very promising
+technique for all types of surgery," said Emma King, a head and
+neck surgeon at Southampton Hospital, England, who was not
+involved in the research.Still, she now wants to see how the iKnife performs in a
+randomised clinical trial.CLINICAL TRIALZoltan Takats of Imperial College, who invented the device,
+said he aimed to test it in such a study, involving between
+1,000 and 1,500 patients with various types of cancers.That trial process is likely to take two or three years and
+only then will the iKnife be submitted for regulatory approval,
+paving the way for its commercialisation.Takats has founded a Budapest-based company called MediMass
+to develop the product and he expects to strike a partnership
+deal with a major medical technology company to bring it to
+market in North America and Europe.Hi-tech surgical equipment is being used increasingly in
+modern hospitals to help surgeons do a better job, most notably
+with the da Vinci surgical robot from Intuitive Surgical
+.The current experimental version of the iKnife cost Takats
+and colleagues at Imperial around 200,000 pounds ($300,000) to
+build. Takats said the price would come down once it entered
+commercial production.The research was welcomed by health minister Lord Howe, who
+said it could benefit both patients and the health service by
+reducing the number of people needing secondary operations for
+cancer.The iKnife may also have a place beyond cancer, according to
+Takats, since it can identify tissue with an inadequate blood
+supply, as well as types of bacteria present in tissue.

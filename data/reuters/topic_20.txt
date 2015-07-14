@@ -1,0 +1,79 @@
+coefficient: -1.737799
+
+risk associated women 95% ci association men mh-studies mh-aged study ti-and intake mh-factors participants associations mh-adult total factors dietary results vitamin mh-humans mh-risk lower mh-middle mh-female cohort ti-risk higher health ci 
+
+coefficient: -1.906768
+
+incidence data rates mortality death prevalence deaths countries infections infection health 000 million costs national hiv year cases risk population ti-in united estimated 2010 ti-and disease states methods increased ti-of 
+
+coefficient: -2.11928
+
+years age patients mh-aged differences 001 vs white likely compared women results testing mh-adult test mh-female diagnosis population prevalence study methods groups higher black mh-humans mh-middle proportion tests ti-in mh-data 
+
+coefficient: -2.248549
+
+children weight mh-child bmi obesity asthma body food age years child ti-and overweight ti-children results used adults obese status health mh-body iron ti-in conclusions mh-studies data mh-humans mass study nutrition 
+
+coefficient: -2.303614
+
+group participants intervention control 95% ci -0 trial baseline mean randomized outcomes difference measures vs compared months pressure design change treatment 001 blood cognitive groups mm main primary outcome setting score 
+
+coefficient: -2.35428
+
+use depression symptoms smoking study disorder disorders alcohol results participants adolescents ti-and mental physical years associated social health conclusions sleep smokers tobacco problems measures life sexual behavior reported ti-of age 
+
+coefficient: -2.766674
+
+women diabetes birth infants age risk pregnancy study type maternal mh-pregnancy mh-infant weeks delivery growth preterm methods associated infant results ti-of mothers fetal born gestational compared conclusions ti-and gestation 95% ci 
+
+coefficient: -2.943818
+
+patients care hospital days outcomes 95% ci mh-numerical mh-data hospitals rates vs admission emergency use visits results discharge ed patient quality 001 medical associated study conclusions department measures hospitalization 30 hospitalized 
+
+coefficient: -3.060972
+
+levels insulin plasma glucose protein fat serum energy increased ti-and acid concentrations effects subjects ti-in metabolic blood ti-of intake results compared objective diet design cholesterol body changes measured supplementation muscle 
+
+coefficient: -3.228267
+
+care health mh-health screening information patient use research medical physicians primary mh-humans support practice ti-the ti-of services clinical mh-care program training management providers intervention decision improve new results ti-care knowledge 
+
+coefficient: -3.276604
+
+studies evidence trials data review treatment included outcomes clinical quality ti-review published meta-analysis systematic ti-a risk literature interventions criteria ti-systematic controlled ti-of articles mh-as results use randomized research pain identified 
+
+coefficient: -3.353645
+
+study patients results ti-of ovarian outcome angiography performed main analysis treatment setting compared patient ti-in methods samples design ti-the number conclusion clinical using survival cases size time transplantation arrest used 
+
+coefficient: -3.400078
+
+patients risk mortality disease stroke 95% ci cardiovascular coronary heart events associated use diabetes ratio hr death hazard therapy myocardial years mh-aged ischemic infarction all-cause increased study 95% confidence interval artery hypertension compared 
+
+coefficient: -3.607891
+
+cancer patients survival tumor ti-cancer 95% ci prostate mh-aged breast primary diagnosis disease results stage lung treatment risk hr tumors overall biopsy associated months therapy recurrence methods ti-of brain mh-neoplasm diagnosed 
+
+coefficient: -3.838672
+
+cells expression cell ti-in mice human gene ti-of brain genetic activation ti-and genes protein levels results response mh-animals receptor mh-mice role increased disease activity mh-cell mh-humans ti-the mechanisms using novel 
+
+coefficient: -3.839924
+
+patients treatment mh-use placebo group therapy months adverse mg mh-aged weeks trial response events mh-effects assigned received efficacy primary survival study vs randomly mh-dosage mh-adult dose median phase safety mh-therapy 
+
+coefficient: -3.847257
+
+patients surgery complications postoperative surgical mh-studies loss mean results left mh-aged mh-humans group ti-of mh-male underwent preoperative mh-female age study significant cardiac conclusions vs follow-up performed ventricular undergoing procedure procedures 
+
+coefficient: -3.989319
+
+diagnostic study injury results patients methods children time accuracy ct using clinical injuries knee infection imaging degrees adhd mean impact athletes high conclusions range head years protocol total ti-of diagnosis 
+
+coefficient: -4.59858
+
+patients infants clinical disease shunt results pulmonary months mh-infant study years conclusions severe mh-studies methods age mh-humans associated treatment ti-in copd children hemorrhage mean mh-male respiratory syndrome treated cerebral ti-of 
+
+coefficient: -4.773033
+
+patients clinical risk score cohort outcome factors study 95% ci model results value identified predictive predictors using data mh-of outcomes low good dementia medical independent mh-studies ti-of measures included conclusions identify 
